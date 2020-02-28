@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Mote"
+    },
+    {
+      "id": 2,
+      "name": "Bd"
+    }
+  ],
+  "photo": [
+    {
+      "id": 1,
+      "albumId": 4, 
+      "title": "Jango Fett"
+    },
+    {
+      "id": 2,
+      "albumId": 4, 
+      "title": "Obiwan Kenobi"
+    },
+    {
+      "id": 3,
+      "albumId": 3,
+      "title": "Aragorn"
+    }
+  ],
+  "album": [
+    {
+      "id": 1,
+      "title": "Image 1"
+    },
+    {
+      "id": 2,
+      "title": "Image 2"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "The lord of the rings"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "title": "Star wars IV"
+    },
+    {
+      "id": 5,
+      "userId": 2,
+      "title": "Eragon"
+    }
+  ]
+}
